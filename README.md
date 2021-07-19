@@ -47,7 +47,7 @@ My passion lies in building software that can turn into a profitable venture, wh
 <img src="./assets/postman-logo-stacked.svg" alt="postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original-wordmark.svg" alt="node" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original-wordmark.svg" alt="node" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/express/express-original-wordmark.svg" alt="express" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
