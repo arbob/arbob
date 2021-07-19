@@ -23,6 +23,7 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 - Always looking forward to helping and collaborate with young students and entrepreneurs having crazy ideas to change the world.
 
 **I post my thoughts, opinions and ideas here:**
+
 - 🌐 [www.arbob.me](https://www.arbob.me)
 
 ### Contact
@@ -39,35 +40,97 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 <code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+</code>
+<code>
 <img src="./assets/vite.svg" alt="vite" width="40" height="40"/>
+</code>
+<code>
 <img src="./assets/postman-logo-stacked.svg" alt="postman" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="node" width="40px" height="40px"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/express/express-original-wordmark.svg" alt="express" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</code>
+<code>
 <img src="./assets/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
+</code>
+<code>
 <img src="./assets/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+</code>
+<code>
 <img src="./assets/brave-seeklogo.com.svg" alt="brave" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</code>
+<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+</code>
 </p>
