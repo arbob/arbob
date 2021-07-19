@@ -73,12 +73,12 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 </a>
 </code>
 <code>
-<a href="#">
+<a href="https://react-redux.js.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </a>
 </code>
 <code>
-<a href="#">
+<a href="https://nextjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/>
 </a>
 </code>
@@ -88,37 +88,37 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 </a>
 </code>
 <code>
-<a href="#">
+<a href="https://getbootstrap.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
 </code>
 <code>
-<a href="#">
+<a href="https://webpack.js.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 </a>
 </code>
 <code>
-<a href="#">
+<a href="https://vitejs.dev/" target="_blank">
 <img src="./assets/vite.svg" alt="vite" width="40" height="40"/>
 </a>
 </code>
 <code>
-<a href="#">
+<a href="https://www.postman.com/" target="_blank">
 <img src="./assets/postman-logo-stacked.svg" alt="postman" width="40" height="40"/>
 </a>
 </code>
 <code>
-<a href="#">
+<a href="https://jestjs.io/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
 </a>
 </code>
 <code>
-<a href="#">
+<a href="https://firebase.google.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
 </a>
 </code>
 <code>
-<a href="#">
+<a href="https://nodejs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="node" width="40px" height="40px"/>
 </a>
 </code>
@@ -128,12 +128,12 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 </a>
 </code>
 <code>
-<a href="#">
+<a href="https://expressjs.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/express/express-original-wordmark.svg" alt="express" height="40"/>
 </a>
 </code>
 <code>
-<a href="#">
+<a href="http://mongodb.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </a>
 </code>
@@ -148,7 +148,7 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 </a>
 </code>
 <code>
-<a href="#">
+<a href="https://graphql.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
 </a>
 </code>
@@ -183,7 +183,7 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 </a>
 </code>
 <code>
-<a href="#">
+<a href="https://www.figma.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </a>
 </code>
