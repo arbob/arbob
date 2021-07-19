@@ -9,7 +9,7 @@
   <img align="left" alt="Arbob's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:hi@arbob.me">
-  <img align="left" alt="Arbob's Email" width="22px" src="./assets/email.svg" />
+  <img align="left" alt="Arbob's Email" height="22px" src="./assets/email.svg" />
 </a>
 </p>
 
