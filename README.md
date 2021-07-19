@@ -1,22 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<br />
-<p>
-<a href="https://twitter.com/arbobm">
-  <img align="left" alt="Arbob Mehmood | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</code>
-</a>
-<a href="https://www.linkedin.com/in/arbob/">
-  <img align="left" alt="Arbob's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</code>
-</a>
-<a href="mailto:hi@arbob.me">
-  <img align="left" alt="Arbob's Email" height="22px" src="./assets/email.svg" />
-</code>
-</a>
-</p>
-
-<br />
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### About Me
 
