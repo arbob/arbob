@@ -176,7 +176,7 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 </a>
 <a href="#">
 <code>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 </code>
 </a>
 <a href="#">
