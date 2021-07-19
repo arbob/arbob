@@ -20,8 +20,7 @@
 My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 My passion lies in building software that can turn into a profitable venture, while using it to help people achieve their goals efficiently.
 
-I post my thoughts, opinions and ideas here:
-
+**I post my thoughts, opinions and ideas here:**
 - 🌐 [www.arbob.me](https://www.arbob.me)
 
 ### Contact
