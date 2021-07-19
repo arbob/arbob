@@ -1,5 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<br />
 <p>
 <a href="https://twitter.com/arbobm">
   <img align="left" alt="Arbob Mehmood | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -12,12 +13,15 @@
 </a>
 </p>
 
+<br />
+
 ### About Me
 
-My name is **Arbob Mehmood** *(Pronounced: /Ar-Bob’/)*.
+My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 My passion lies in building software that can turn into a profitable venture, while using it to help people achieve their goals efficiently.
 
 I post my thoughts, opinions and ideas here:
+
 - 🌐 [www.arbob.me](https://www.arbob.me)
 
 ### Contact
