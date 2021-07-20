@@ -101,7 +101,7 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 </a>
 <a href="https://nodejs.org/" target="_blank">
 <code>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="node" width="40px" height="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="node" width="30px" height="30px"/>
 </code>
 </a>
 <a href="#">
