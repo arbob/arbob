@@ -111,7 +111,7 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 </a>
 <a href="https://expressjs.com/" target="_blank">
 <code>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/express/express-original-wordmark.svg" alt="express" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/express/express-original.svg" alt="express" height="40"/>
 </code>
 </a>
 <a href="http://mongodb.com/" target="_blank">
