@@ -14,7 +14,7 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 ### Contact 
 
 - 📧 Email: [hi@arbob.me](mailto:hi@arbob.me)
-- 🤝 [Schedule a meeting](calendly.com/arbob)
+- 🤝 [Schedule a meeting](https://www.calendly.com/arbob)
 
 ### Technologies I Use
 
