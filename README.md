@@ -74,6 +74,11 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
 </code>
 </a>
+ <a href="https://bulma.io/" target="_blank">
+<code>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bulma/bulma-plain.svg" alt="bulma" width="30" height="30"/>
+</code>
+  </a>
 <a href="https://webpack.js.org/" target="_blank">
 <code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/>
