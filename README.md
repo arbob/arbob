@@ -100,6 +100,8 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jest/jest-plain.svg" alt="jest" width="30" height="30"/>
 </code>
 </a>
+<a href="https://pugjs.org"><img src="https://cdn.rawgit.com/pugjs/pug-logo/eec436cee8fd9d1726d7839cbe99d1f694692c0c/SVG/pug-final-logo-_-colour-128.svg" height="30" align="30" alt="pug jade"></a>
+
 <a href="https://firebase.google.com/" target="_blank">
 <code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/firebase/firebase-plain.svg" alt="firebase" width="30" height="30"/>
