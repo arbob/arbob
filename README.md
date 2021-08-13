@@ -193,11 +193,11 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="30" height="30"/>
 </code>
 </a>
-<a href="#">
+<!-- <a href="#">
 <code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/windows8/windows8-original.svg" alt="windows" width="30" height="30"/>
 </code>
-</a>
+</a> -->
 </p>
 
 </br>
