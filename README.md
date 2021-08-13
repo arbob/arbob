@@ -75,6 +75,11 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bulma/bulma-plain.svg" alt="bulma" width="30" height="30"/>
 </code>
   </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+<code>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30"/>
+</code>
+  </a>
   <a href="https://material-ui.com/" target="_blank">
 <code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/materialui/materialui-original.svg" alt="material ui" width="30" height="30"/>
