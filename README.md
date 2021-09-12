@@ -42,11 +42,6 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 </a>
 <a href="#">
 <code>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="github" width="30" height="30"/>
-</code>
-</a>
-<a href="#">
-<code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" alt="react" width="30" height="30"/>
 </code>
 </a>
