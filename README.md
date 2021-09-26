@@ -113,11 +113,6 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="node" width="30px" height="30px"/>
 </code>
 </a>
- <a href="#" target="_blank">
-<code>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" alt="python" width="30px" height="30px"/>
-</code>
-</a>
 <a href="#">
 <code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
