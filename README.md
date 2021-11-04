@@ -209,4 +209,3 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 <!---
 [![Arbob's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbob&count_private=true&show_icons=true&theme=radical&custom_title=Arbob%27s+Github+Stats)](https://github.com/arbob/github-readme-stats)
 --->
-[![Visitor Counter for webapp.io](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=webapp.io)}](https://pimp-my-readme.webapp.io)
