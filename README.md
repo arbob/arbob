@@ -28,7 +28,7 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 <a href="#">
 <code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-</code>
+</code> 
 </a>
 <a href="#">
 <code>
