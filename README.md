@@ -7,7 +7,7 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 
 **I post my thoughts, opinions and ideas here:** 🌐 [www.arbob.me](https://www.arbob.me)
 
-### Contact:
+### Contact: 
 
 - 📧 Email: [hi@arbob.me](mailto:hi@arbob.me)
 - 🤝 [Schedule a meeting](https://www.calendly.com/arbob)
