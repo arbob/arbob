@@ -173,6 +173,11 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="30" height="30"/>
 </code>
 </a>
+ <a href="#">
+<code>
+<img src="https://swimburger.net/media/0zcpmk1b/azure.jpg" alt="azure" width="30" height="30"/>
+</code>
+</a>
 <a href="#">
 <code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="30" height="30"/>
