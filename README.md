@@ -175,7 +175,7 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 </a>
  <a href="#">
 <code>
-<img src="https://swimburger.net/media/0zcpmk1b/azure.jpg" alt="azure" width="30" height="30"/>
+<img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="azure" width="30" height="30"/>
 </code>
 </a>
 <a href="#">
