@@ -168,12 +168,12 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
 </code>
 </a>
-<a href="#">
+<a href="https://cloud.google.com/" target="_blank">
 <code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="30" height="30"/>
 </code>
 </a>
- <a href="#">
+<a href="https://azure.microsoft.com/" target="_blank">
 <code>
 <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="azure" width="30" height="30"/>
 </code>
