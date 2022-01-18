@@ -178,6 +178,11 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="azure" width="30" height="30"/>
 </code>
 </a>
+ <a href="https://www.terraform.io/" target="_blank">
+<code>
+<img src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" alt="terraform" width="30" height="30"/>
+</code>
+</a>
 <a href="#">
 <code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="30" height="30"/>
