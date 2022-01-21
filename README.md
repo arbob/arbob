@@ -2,7 +2,7 @@
 
 My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 
-- I have more than 4 years of experience building products and managing teams. 🔥
+- 4+ years of experience building products and managing teams. 🔥
 - Avid problem solver and superfast learner. 📚
 - Obsessed with detail and customer centric approach to building software. 🥇
 - Supernatural ability to break complex solutions into small, easily-executable pieces. ⛳
