@@ -2,7 +2,9 @@
 
 My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
 
-- 💖 My passion lies in building software that can become a profitable venture while helping people achieve their goals efficiently.
+I have more than 4 years of experience building products and managing teams 🔥. Avid problem solver and superfast learner 📚. Obsessed with detail and customer centric approach to building software 🥇. Supernatural ability to break complex solutions into small, easily-executable pieces ⛳. Love simplicity over anything.
+
+- 💖 My passion lies in building software that can help people achieve their goals efficiently.
 - 🚀 Always looking forward to helping and collaborate with young students and entrepreneurs having crazy ideas to change the world.
 
 **I post my thoughts, opinions and ideas here:** 🌐 [www.arbob.me](https://www.arbob.me)
