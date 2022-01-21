@@ -1,6 +1,6 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_.
+My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_. Some things about me:
 
 - 🔥 4+ years of experience building products and managing teams.
 - 📚 Avid problem solver and superfast learner. 
