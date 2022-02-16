@@ -155,11 +155,6 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_. Some things about me:
 </a>
 <a href="#">
 <code>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
-</code>
-</a>
-<a href="#">
-<code>
 <img src="./assets/Amazon_Web_Services_Logo.svg" alt="aws" width="30" height="30"/>
 </code>
 </a>
@@ -186,6 +181,11 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_. Some things about me:
  <a href="https://www.terraform.io/" target="_blank">
 <code>
 <img src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" alt="terraform" width="30" height="30"/>
+</code>
+</a>
+<a href="#">
+<code>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
 </code>
 </a>
 <a href="#">
