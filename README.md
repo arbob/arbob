@@ -2,7 +2,7 @@
 
 My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_. Some things about me:
 
-- 🔥 5+ years of experience building products and managing teams.
+- 🔥 6+ years of experience building products and managing teams.
 - 💖 Full-stack dev with a passion to build software that can help people achieve their goals efficiently.
 - 📚 Avid problem solver and superfast learner. 
 - 🥇 Obsessed with detail and customer centric approach to building software. 
