@@ -23,392 +23,114 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_. Some things about me:
 
 #### 🎨 Frontend
 
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
-  </a>
-  <br/>HTML5
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
-  </a>
-  <br/>CSS3
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-  </a>
-  <br/>JavaScript
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
-  </a>
-  <br/>TypeScript
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" alt="React" width="30" height="30"/>
-  </a>
-  <br/>React
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://react-redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/redux/redux-original.svg" alt="Redux" width="30" height="30"/>
-  </a>
-  <br/>Redux
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://hookstate.js.org/" target="_blank">
-    <img src="https://hookstate.js.org/img/favicon-196.png" alt="Hookstate" width="30" height="30"/>
-  </a>
-  <br/>Hookstate
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30"/>
-  </a>
-  <br/>Next.js
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" alt="Sass" width="30" height="30"/>
-  </a>
-  <br/>Sass
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30"/>
-  </a>
-  <br/>Bootstrap
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://bulma.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bulma/bulma-plain.svg" alt="Bulma" width="30" height="30"/>
-  </a>
-  <br/>Bulma
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30"/>
-  </a>
-  <br/>Tailwind CSS
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://ui.shadcn.com/" target="_blank">
-    <img src="./assets/shadcn.svg" alt="shadcn/ui" width="30" height="30"/>
-  </a>
-  <br/>shadcn/ui
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://material-ui.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/materialui/materialui-original.svg" alt="Material UI" width="30" height="30"/>
-  </a>
-  <br/>Material UI
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://webpack.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/webpack/webpack-original.svg" alt="Webpack" width="30" height="30"/>
-  </a>
-  <br/>Webpack
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="./assets/vite.svg" alt="Vite" width="30" height="30"/>
-  </a>
-  <br/>Vite
-</div>
+<table>
+<tr>
+<td align="center" width="90"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>HTML5</td>
+<td align="center" width="90"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>CSS3</td>
+<td align="center" width="90"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>JavaScript</td>
+<td align="center" width="90"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>TypeScript</td>
+<td align="center" width="90"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" width="40" height="40" alt="React" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>React</td>
+<td align="center" width="90"><a href="https://react-redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Redux</td>
+<td align="center" width="90"><a href="https://hookstate.js.org/" target="_blank"><img src="https://hookstate.js.org/img/favicon-196.png" width="40" height="40" alt="Hookstate" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Hookstate</td>
+<td align="center" width="90"><a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Next.js</td>
+</tr>
+<tr>
+<td align="center" width="90"><a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Sass</td>
+<td align="center" width="90"><a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Bootstrap</td>
+<td align="center" width="90"><a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Tailwind CSS</td>
+<td align="center" width="90"><a href="https://jestjs.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Jest</td>
+<td align="center" width="90"><a href="https://ui.shadcn.com/" target="_blank"><img src="./assets/shadcn.svg" width="40" height="40" alt="shadcn/ui" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>shadcn/ui</td>
+<td align="center" width="90"><a href="https://material-ui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/materialui/materialui-original.svg" width="40" height="40" alt="Material UI" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Material UI</td>
+<td align="center" width="90"><a href="https://webpack.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/webpack/webpack-original.svg" width="40" height="40" alt="Webpack" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Webpack</td>
+<td align="center" width="90"><a href="https://vitejs.dev/" target="_blank"><img src="./assets/vite.svg" width="40" height="40" alt="Vite" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Vite</td>
+</tr>
+</table>
 
 ---
 
 #### ⚙️ Backend
 
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
-  </a>
-  <br/>Node.js
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/npm/npm-original-wordmark.svg" alt="NPM" width="30" height="30"/>
-  </a>
-  <br/>NPM
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/express/express-original.svg" alt="Express" width="30" height="30"/>
-  </a>
-  <br/>Express
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="./assets/python.svg" alt="Python" width="30" height="30"/>
-  </a>
-  <br/>Python
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="./assets/django.svg" alt="Django" width="30" height="30"/>
-  </a>
-  <br/>Django
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="./assets/fastapi.svg" alt="FastAPI" width="30" height="30"/>
-  </a>
-  <br/>FastAPI
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
-  </a>
-  <br/>MongoDB
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
-  </a>
-  <br/>MySQL
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/>
-  </a>
-  <br/>PostgreSQL
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="./assets/prisma.svg" alt="Prisma" width="30" height="30"/>
-  </a>
-  <br/>Prisma
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://redis.io/" target="_blank">
-    <img src="./assets/redis.svg" alt="Redis" width="30" height="30"/>
-  </a>
-  <br/>Redis
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://graphql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/graphql/graphql-plain.svg" alt="GraphQL" width="30" height="30"/>
-  </a>
-  <br/>GraphQL
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="./assets/langchain.svg" alt="LangChain" width="30" height="30"/>
-  </a>
-  <br/>LangChain
-</div>
+<table>
+<tr>
+<td align="center" width="90"><a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Node.js</td>
+<td align="center" width="90"><a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>NPM</td>
+<td align="center" width="90"><a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/express/express-original.svg" width="40" height="40" alt="Express" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Express</td>
+<td align="center" width="90"><a href="https://www.python.org/" target="_blank"><img src="./assets/python.svg" width="40" height="40" alt="Python" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Python</td>
+<td align="center" width="90"><a href="https://www.djangoproject.com/" target="_blank"><img src="./assets/Django.svg" width="40" height="40" alt="Django" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Django</td>
+<td align="center" width="90"><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="./assets/FastAPI.svg" width="40" height="40" alt="FastAPI" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>FastAPI</td>
+<td align="center" width="90"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>MongoDB</td>
+<td align="center" width="90"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>MySQL</td>
+</tr>
+<tr>
+<td align="center" width="90"><a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>PostgreSQL</td>
+<td align="center" width="90"><a href="https://www.prisma.io/" target="_blank"><img src="./assets/prisma.svg" width="40" height="40" alt="Prisma" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Prisma</td>
+<td align="center" width="90"><a href="https://redis.io/" target="_blank"><img src="./assets/redis.svg" width="40" height="40" alt="Redis" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Redis</td>
+<td align="center" width="90"><a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>GraphQL</td>
+</tr>
+</table>
 
 ---
 
 #### 📱 Mobile
 
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://expo.dev/" target="_blank">
-    <img src="./assets/expo.svg" alt="Expo" width="30" height="30"/>
-  </a>
-  <br/>Expo
-</div>
+<table>
+<tr>
+<td align="center" width="90"><a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" width="40" height="40" alt="React Native" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>React Native</td>
+<td align="center" width="90"><a href="https://expo.dev/" target="_blank"><img src="./assets/expo-icon.svg" width="40" height="40" alt="Expo" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Expo</td>
+</tr>
+</table>
 
 ---
 
 #### 🚀 DevOps
 
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
-  </a>
-  <br/>Git
-</div>
+<table>
+<tr>
+<td align="center" width="90"><a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg" width="40" height="40" alt="Git" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Git</td>
+<td align="center" width="90"><a href="https://github.com/features/actions" target="_blank"><img src="./assets/githubactions.svg" width="40" height="40" alt="GitHub Actions" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>CI/CD</td>
+<td align="center" width="90"><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Docker</td>
+<td align="center" width="90"><a href="https://www.terraform.io/" target="_blank"><img src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" width="40" height="40" alt="Terraform" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Terraform</td>
+<td align="center" width="90"><a href="https://aws.amazon.com/" target="_blank"><img src="./assets/Amazon_Web_Services_Logo.svg" width="40" height="40" alt="AWS" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>AWS</td>
+<td align="center" width="90"><a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Google Cloud</td>
+<td align="center" width="90"><a href="https://azure.microsoft.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" width="40" height="40" alt="Azure" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Azure</td>
+<td align="center" width="90"><a href="https://www.heroku.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/heroku/heroku-original.svg" width="40" height="40" alt="Heroku" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Heroku</td>
+</tr>
+<tr>
+<td align="center" width="90"><a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Firebase</td>
+<td align="center" width="90"><a href="https://www.nginx.com/" target="_blank"><img src="./assets/nginx.svg" width="40" height="40" alt="Nginx" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Nginx</td>
+<td align="center" width="90"><a href="https://www.rabbitmq.com/" target="_blank"><img src="./assets/rabbitmq.svg" width="40" height="40" alt="RabbitMQ" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>RabbitMQ</td>
+<td align="center" width="90"><a href="https://kafka.apache.org/" target="_blank"><img src="./assets/Apache Kafka.svg" width="40" height="40" alt="Kafka" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Kafka</td>
+<td align="center" width="90"><a href="https://www.serverless.com/" target="_blank"><img src="./assets/serverless.svg" width="40" height="40" alt="Serverless" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Serverless</td>
+<td align="center" width="90"><a href="https://www.postman.com/" target="_blank"><img src="./assets/postman-logo-stacked.svg" width="40" height="40" alt="Postman" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Postman</td>
+</tr>
+</table>
 
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="./assets/githubactions.svg" alt="GitHub Actions" width="30" height="30"/>
-  </a>
-  <br/>CI/CD
-</div>
+---
 
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
-  </a>
-  <br/>Docker
-</div>
+#### 🤖 AI
 
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" alt="Terraform" width="30" height="30"/>
-  </a>
-  <br/>Terraform
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="./assets/Amazon_Web_Services_Logo.svg" alt="AWS" width="30" height="30"/>
-  </a>
-  <br/>AWS
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="30" height="30"/>
-  </a>
-  <br/>Google Cloud
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="Azure" width="30" height="30"/>
-  </a>
-  <br/>Azure
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.heroku.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/heroku/heroku-original.svg" alt="Heroku" width="30" height="30"/>
-  </a>
-  <br/>Heroku
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/firebase/firebase-plain.svg" alt="Firebase" width="30" height="30"/>
-  </a>
-  <br/>Firebase
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.nginx.com/" target="_blank">
-    <img src="./assets/nginx.svg" alt="Nginx" width="30" height="30"/>
-  </a>
-  <br/>Nginx
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="./assets/rabbitmq.svg" alt="RabbitMQ" width="30" height="30"/>
-  </a>
-  <br/>RabbitMQ
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="./assets/kafka.svg" alt="Kafka" width="30" height="30"/>
-  </a>
-  <br/>Kafka
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.serverless.com/" target="_blank">
-    <img src="./assets/serverless.svg" alt="Serverless" width="30" height="30"/>
-  </a>
-  <br/>Serverless
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="./assets/postman-logo-stacked.svg" alt="Postman" width="30" height="30"/>
-  </a>
-  <br/>Postman
-</div>
+<table>
+<tr>
+<td align="center" width="90"><a href="https://openai.com/" target="_blank"><img src="./assets/openai.svg" width="40" height="40" alt="OpenAI" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>OpenAI</td>
+<td align="center" width="90"><a href="https://www.anthropic.com/" target="_blank"><img src="./assets/claude-color.svg" width="40" height="40" alt="Claude" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Claude</td>
+<td align="center" width="90"><a href="https://www.langchain.com/" target="_blank"><img src="./assets/langchain-color.svg" width="40" height="40" alt="LangChain" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>LangChain</td>
+</tr>
+</table>
 
 ---
 
 #### 🛠️ Other
 
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://jestjs.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jest/jest-plain.svg" alt="Jest" width="30" height="30"/>
-  </a>
-  <br/>Jest
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
-  </a>
-  <br/>VS Code
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://wordpress.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="30" height="30"/>
-  </a>
-  <br/>WordPress
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="./assets/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="30" height="30"/>
-  </a>
-  <br/>Photoshop
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
-  </a>
-  <br/>Figma
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://brave.com/" target="_blank">
-    <img src="./assets/brave-seeklogo.com.svg" alt="Brave" width="30" height="30"/>
-  </a>
-  <br/>Brave
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="30" height="30"/>
-  </a>
-  <br/>Ubuntu
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://openai.com/" target="_blank">
-    <img src="./assets/openai.svg" alt="OpenAI" width="30" height="30"/>
-  </a>
-  <br/>OpenAI
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-  <a href="https://www.anthropic.com/" target="_blank">
-    <img src="./assets/claude.svg" alt="Claude" width="30" height="30"/>
-  </a>
-  <br/>Claude
-</div>
+<table>
+<tr>
+<td align="center" width="90"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>VS Code</td>
+<td align="center" width="90"><a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>WordPress</td>
+<td align="center" width="90"><a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="./assets/Adobe_Photoshop_CC_icon.svg" width="40" height="40" alt="Photoshop" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Photoshop</td>
+<td align="center" width="90"><a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Figma</td>
+<td align="center" width="90"><a href="https://brave.com/" target="_blank"><img src="./assets/brave-seeklogo.com.svg" width="40" height="40" alt="Brave" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Brave</td>
+<td align="center" width="90"><a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu" style="background: white; padding: 5px; border-radius: 5px;" /></a><br/>Ubuntu</td>
+</tr>
+</table>
 
 
 </br>
