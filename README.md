@@ -35,9 +35,9 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_. Some things about me:
     <td align="center" width="60"><a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nextjs/nextjs-original.svg" width="28" height="28" alt="Next.js" /></a><br><sub>Next.js</sub></td>
     <td align="center" width="60"><a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" width="28" height="28" alt="Sass" /></a><br><sub>Sass</sub></td>
     <td align="center" width="60"><a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg" width="28" height="28" alt="Bootstrap" /></a><br><sub>Bootstrap</sub></td>
+    <td align="center" width="60"><a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/tailwindcss/tailwindcss-plain.svg" width="28" height="28" alt="Tailwind" /></a><br><sub>Tailwind</sub></td>
   </tr>
   <tr>
-    <td align="center" width="60"><a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/tailwindcss/tailwindcss-plain.svg" width="28" height="28" alt="Tailwind" /></a><br><sub>Tailwind</sub></td>
     <td align="center" width="60"><a href="https://jestjs.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jest/jest-plain.svg" width="28" height="28" alt="Jest" /></a><br><sub>Jest</sub></td>
     <td align="center" width="60"><a href="https://ui.shadcn.com/" target="_blank"><img src="./assets/shadcn.svg" width="28" height="28" alt="shadcn/ui" /></a><br><sub>shadcn/ui</sub></td>
     <td align="center" width="60"><a href="https://material-ui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/materialui/materialui-original.svg" width="28" height="28" alt="MUI" /></a><br><sub>MUI</sub></td>
@@ -61,9 +61,9 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_. Some things about me:
     <td align="center" width="60"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL" /></a><br><sub>MySQL</sub></td>
     <td align="center" width="60"><a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg" width="28" height="28" alt="PostgreSQL" /></a><br><sub>PostgreSQL</sub></td>
     <td align="center" width="60"><a href="https://www.prisma.io/" target="_blank"><img src="./assets/prisma.svg" width="28" height="28" alt="Prisma" /></a><br><sub>Prisma</sub></td>
+    <td align="center" width="60"><a href="https://redis.io/" target="_blank"><img src="./assets/redis.svg" width="28" height="28" alt="Redis" /></a><br><sub>Redis</sub></td>
   </tr>
   <tr>
-    <td align="center" width="60"><a href="https://redis.io/" target="_blank"><img src="./assets/redis.svg" width="28" height="28" alt="Redis" /></a><br><sub>Redis</sub></td>
     <td align="center" width="60"><a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/graphql/graphql-plain.svg" width="28" height="28" alt="GraphQL" /></a><br><sub>GraphQL</sub></td>
     <td align="center" width="60"><a href="https://supabase.com/" target="_blank"><img src="./assets/supabase.svg" width="28" height="28" alt="Supabase" /></a><br><sub>Supabase</sub></td>
   </tr>
