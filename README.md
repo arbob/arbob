@@ -90,8 +90,9 @@ My name is **Arbob Mehmood** _(Pronounced: /Ar-Bob’/)_. Some things about me:
 </tr>
 </table>
 
-<!--OLD_REMOVED_START-->
-<p style="display:none"><a href="#"><img src="./assets/shadcn.svg" alt="placeholder" /></a></td>
+<!--DELETED_BELOW-->
+<p style="display:none">
+<a href="#">x</a>
 <td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></a></td>
 <td align="center" width="96"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br/><sub><b>TypeScript</b></sub></a></td>
 <td align="center" width="96"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" width="40" height="40" alt="React" /><br/><sub><b>React</b></sub></a></td>
